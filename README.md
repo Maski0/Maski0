@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙏, I'm Maski Srikar</h1>
-<h3 align="center">Motivated to Learn, Grow and Excel in Game/Backend Software Development</h3>
+<h3 align="center">Motivated to Learn, Grow and Excel in Game/Backend Software Development, <br />Currently Trying to contribute to Open-Source projects. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
